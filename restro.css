@@ -4,8 +4,12 @@
     
     
   }
-html {
-  
+body, html {
+  overflow-x: hidden;
+  touch-action: pan-y; /* Allows vertical scrolling, disables horizontal scrolling */
+  width: 100vw;
+  margin: 0;
+  padding: 0;
 }
 
   
