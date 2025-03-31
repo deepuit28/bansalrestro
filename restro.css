@@ -205,6 +205,9 @@ html {
     .bati img{
       height:auto; 
       width:80vw;
+        
+        object-fit: contain;
+    aspect-ratio: 1;
       
       
 
