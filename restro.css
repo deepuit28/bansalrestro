@@ -10,7 +10,7 @@ html {
 
   
   body {
-    background-color: rgba(0, 0, 0, 0.6);
+    color
     gap: 0;
   }
   .baap{
@@ -583,6 +583,7 @@ iframe{
   height: 100vh;
   overflow: hidden;
   z-index: -1;
+    
 }
 
 #bg-video {
@@ -595,6 +596,7 @@ iframe{
   object-fit: cover;
   min-width: 100vw;
   min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 /* Adjust for taller screens (mobile portrait mode) */
