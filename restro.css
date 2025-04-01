@@ -218,7 +218,11 @@ body, html {
     }
     .name h1{
       font-size:9.5vw;
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      .crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
     }
     .name{
